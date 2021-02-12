@@ -1,6 +1,6 @@
 # UFOs
 
-## Challenge:
+## Goal:
 - create advanced filtering capability for the webpage, it will allow users to filter the data by multiple factors.
 - filters in the table:
 Date
